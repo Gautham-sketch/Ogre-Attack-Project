@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hand with lasergun
+* source:	https://sketchfab.com/3d-models/hand-with-lasergun-2de2c5095b6645df931fb78cde15771c
+* author:	Sololopenko (https://sketchfab.com/Sololopenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hand with lasergun" (https://sketchfab.com/3d-models/hand-with-lasergun-2de2c5095b6645df931fb78cde15771c) by Sololopenko (https://sketchfab.com/Sololopenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
